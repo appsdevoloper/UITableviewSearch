@@ -1,10 +1,5 @@
 //
 //  ViewController.swift
-//  test
-//
-//  Created by Rajeshkumar on 07/06/17.
-//  Copyright © 2017 ndotmac. All rights reserved.
-//
 
 import UIKit
 import Foundation
